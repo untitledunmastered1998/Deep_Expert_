@@ -83,11 +83,13 @@ Thanks the following code bases for their framework and ideas:
 If you use this code, please cite:
 
 ```bibtex
-@inproceedings{yan2025dexpert,
+@inproceedings{tao2025leveraging,
   title={Leveraging Multiple Deep Experts for Online Class-incremental Learning},
-  author={Yan, Hongwei and Wang, Liyuan and Ma, Kaisheng and Zhong, Yi},
-  booktitle={IEEE International Conference on Multimedia and Expo (ICME)},
-  year={2025}
+  author={Tao, Zhe and Yu, Lu and Yao, Hantao and Xu, Changsheng},
+  booktitle={2025 IEEE International Conference on Multimedia and Expo (ICME)},
+  pages={1--6},
+  year={2025},
+  organization={IEEE}
 }
 ```
 
