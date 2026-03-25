@@ -2,9 +2,6 @@
 Implementation of "Leveraging Multiple Deep Experts for Online Class-incremental Learning" (ICME 2025).
 This repository also includes MOSE and several baseline methods for online continual learning.
 
-## Overview
-![MOSE](./assets/mose_v4.svg)
-Figure: MOSE overview (baseline).
 
 ## Methods
 This repository includes:
