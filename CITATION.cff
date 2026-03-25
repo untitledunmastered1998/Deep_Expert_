@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the paper below."
+title: "Leveraging Multiple Deep Experts for Online Class-incremental Learning"
+type: software
+authors:
+  - family-names: Yan
+    given-names: Hongwei
+  - family-names: Wang
+    given-names: Liyuan
+  - family-names: Ma
+    given-names: Kaisheng
+  - family-names: Zhong
+    given-names: Yi
+preferred-citation:
+  type: article
+  title: "Leveraging Multiple Deep Experts for Online Class-incremental Learning"
+  authors:
+    - family-names: Yan
+      given-names: Hongwei
+    - family-names: Wang
+      given-names: Liyuan
+    - family-names: Ma
+      given-names: Kaisheng
+    - family-names: Zhong
+      given-names: Yi
+  year: 2025
+  journal: "IEEE International Conference on Multimedia and Expo (ICME)"
